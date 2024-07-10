@@ -1,12 +1,16 @@
 # The Look ECommerce Data Analysis
 
+<p align="center">
+  <img src="https://png.pngtree.com/png-vector/20230726/ourmid/pngtree-coloring-pages-free-kids-printable-teddy-bear-drawing-in-pencil-cartoon-png-image_6746133.png" alt="Logo" />
+</p>
+
 Ini adalah Jupyter notebook dari data Analysis
 --
 ### Table Of Contets
 - [Introduction](#introduction)
 - [Pertanyaan](#Visualisasi Bisnis)
 --
-## Business Question
+## Visualisasi Bisnis
 ### 1-where-are-the-most-male-customers-located-display-with-a-bar-chart-per-country
 ```Python
 import pandas as pd
